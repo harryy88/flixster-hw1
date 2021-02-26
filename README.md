@@ -14,8 +14,8 @@
 
 ### App Walkthrough GIF
 
-![](flix-hwk1.gif)
 
+![](hw2Kapture.gif)
 ### Notes
 Describe any challenges encountered while building the app.
 
@@ -24,7 +24,7 @@ Describe any challenges encountered while building the app.
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-![](hw2Kapture.gif)
+![](flix-hwk1.gif)
 
 ## Flix Part 1
 
